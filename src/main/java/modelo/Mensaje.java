@@ -6,7 +6,7 @@ package modelo;
 
 /**
  *
- * @author octav
+ * @author josue
  */
 public class Mensaje {
     private String usuario;
